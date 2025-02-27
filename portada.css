@@ -3,20 +3,24 @@ body{
     margin: 0px 100px 100px 100px;
 }
 .table {
-     width: 100%;
+    width: 100%;
     border-collapse: collapse;
     margin: 20px 0;
-     font-size: 12px;
- }
+    font-size: 12px;
+    }
 .table, .table th, .table td {
     border: 1px solid black;
- }
+    }
 .table th, .table td {
     padding: 5px;
     text-align: center;
 }
 .header {
 text-align: center;
+}
+h1 {
+    display: block;
+    text-align: center;
 }
 img {
     width: 50px;
